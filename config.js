@@ -12,15 +12,15 @@ global.capikey = 'ptlc_U5fwq86umF5wiwy8cI2VwTcP5jqBCi4X9KYmNW4o8X2' //Ganti Pake
 global.domain = 'https://order.jasavirtex.pro'
 global.eggsnya = '15' //Ganti Pake Eggs Panel Lu
 global.location = '1' //Ganti Pake Location Panel Lu
-global.prefa = ['','!','.',',','🐤','🗿']
-global.Contributor = '2348022159244'
-global.NamaOwner = 'mofe🕊' //gausah diganti 
+global.prefa = ['#']
+global.Contributor = '2348104531844'
+global.NamaOwner = 'Hndrxx💀' //gausah diganti 
 global.sessionName = 'spider'
 global.connect = true // Ubah Ke False Jika Ingin Menggunakan Qr Code
 global.namabot = '𝕾𝖕𝖎𝖉𝖊𝖗 - 𝖂𝖊𝖇 ' //ganti aj klo mau
-global.author = '𝖐𝖎𝖓𝖌 𝖘𝖆𝖒' //ganti aj klo mau
-global.packname = '🕷️ 𝕾𝖕𝖎𝖉𝖊𝖗🕷️ 🕸️𝖂𝖊𝖇🕸️' //ganti aj klo mau
-global.yt = 'https://chat.whatsapp.com/CHOR0WkQk8N6ZrhqQwnLqm' //gausah diganti
+global.author = 'Hndrxx💀' //ganti aj klo mau
+global.packname = 'DELUSION' //ganti aj klo mau
+global.yt = '-' //gausah diganti
 global.listr = ` │⬡ 1GB Cpu: 50% - 3.000/bln
  │⬡ 2GB Cpu: 70% - 5.000/bln
  │⬡ 3GB Cpu: 90% - 7.000/bln
@@ -30,7 +30,7 @@ global.listr = ` │⬡ 1GB Cpu: 50% - 3.000/bln
  │⬡ 7GB Cpu: 170% - 15.000/bln
  │⬡ 8GB Cpu: 200% - 17.000/bln`
 
-global.country = `254`
+global.country = `234`
 
 global.system = {
     gmail: `samuelcircute@gmail.com`,

@@ -13,11 +13,11 @@ global.domain = 'https://order.jasavirtex.pro'
 global.eggsnya = '15' //Ganti Pake Eggs Panel Lu
 global.location = '1' //Ganti Pake Location Panel Lu
 global.prefa = ['#']
-global.Contributor = '2347064935984'
-global.NamaOwner = 'lilo' //gausah diganti 
+global.Contributor = '27635696219'
+global.NamaOwner = 'joker' //gausah diganti 
 global.sessionName = 'spider'
 global.connect = true // Ubah Ke False Jika Ingin Menggunakan Qr Code
-global.namabot = '𝕾𝖕𝖎𝖉𝖊𝖗 - 𝖂𝖊𝖇 ' //ganti aj klo mau
+global.namabot = 'joker' //ganti aj klo mau
 global.author = 'Hndrxx💀' //ganti aj klo mau
 global.packname = 'DELUSION' //ganti aj klo mau
 global.yt = '-' //gausah diganti
@@ -33,7 +33,7 @@ global.listr = ` │⬡ 1GB Cpu: 50% - 3.000/bln
 global.country = `234`
 
 global.system = {
-    gmail: `samuelcircute@gmail.com`,
+    gmail: `adymoyise@gmail.com`,
 }
 
    //Respon
